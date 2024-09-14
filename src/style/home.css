@@ -67,9 +67,8 @@
         display: none;
     }
     #cta {
-      display: none;
-      /*   width: auto;
+        
         text-align: center;
-        align-items: center; */
+        align-items: center;
     }
 }
