@@ -67,7 +67,7 @@
         display: none;
     }
     #cta {
-        width: 100%;
+        width: auto;
         text-align: center;
         align-items: center;
     }
